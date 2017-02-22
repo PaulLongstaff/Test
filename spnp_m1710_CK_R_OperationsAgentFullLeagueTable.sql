@@ -15,7 +15,7 @@ VSS version number
 $Revision: 2 $ 
 
 *******************************************************************************/
-IF EXISTS (
+IF EXISTS(
 		SELECT
 			*
 		FROM dbo.sysobjects
